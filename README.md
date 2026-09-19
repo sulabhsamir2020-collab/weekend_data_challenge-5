@@ -9,5 +9,5 @@ This project cleans and analyzes the Kaggle Tech Layoffs dataset using Python an
 - Addressing the bonus question to contrast total counts versus percentage impacts.
 
 ## 🛠️ Tools Used:
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, Matplotlib, Seaborn)
 - Google Colab
